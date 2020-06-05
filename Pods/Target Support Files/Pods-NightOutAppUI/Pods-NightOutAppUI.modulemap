@@ -1,0 +1,6 @@
+framework module Pods_NightOutAppUI {
+  umbrella header "Pods-NightOutAppUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
