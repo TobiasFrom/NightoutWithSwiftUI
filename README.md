@@ -2,4 +2,4 @@
 
 NightOut mobile application for IOS.
 
-With working animations, login, Observable Stores and filtering.
+With working animations, login, Observable Stores and filtering. 
